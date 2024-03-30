@@ -1,0 +1,8 @@
+@inproceedings{liu2023prism,
+  title={Prism: Revealing hidden functional clusters from massive instances in cloud systems},
+  author={Liu, Jinyang and Jiang, Zhihan and Gu, Jiazhen and Huang, Junjie and Chen, Zhuangbin and Feng, Cong and Yang, Zengyin and Yang, Yongqiang and Lyu, Michael R},
+  booktitle={2023 38th IEEE/ACM International Conference on Automated Software Engineering (ASE)},
+  pages={268--280},
+  year={2023},
+  organization={IEEE}
+}

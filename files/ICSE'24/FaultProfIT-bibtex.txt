@@ -1,0 +1,6 @@
+@article{huang2024faultprofit,
+  title={FaultProfIT: Hierarchical Fault Profiling of Incident Tickets in Large-scale Cloud Systems},
+  author={Huang, Junjie and Liu, Jinyang and Chen, Zhuangbin and Jiang, Zhihan and Li, Yichen and Gu, Jiazhen and Feng, Cong and Yang, Zengyin and Yang, Yongqiang and Lyu, Michael R},
+  journal={arXiv preprint arXiv:2402.17583},
+  year={2024}
+}
