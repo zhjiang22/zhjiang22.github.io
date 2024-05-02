@@ -47,7 +47,7 @@
   <span style="font-size:14px;"> *The IEEE/ACM International Conference on Software Engineering: Software Engineering in Practice, Lisbon, Portugal, Apr 2024.* </span>
 
   [[Paper](https://www.zhihan-jiang.com/files/ICSE'24/FaultProfIT.pdf)]
-  [Slides]
+  [[Slides](https://www.zhihan-jiang.com/files/ICSE'24/FaultProfIT-slides.pdf)]
   [[DOI](https://doi.org/10.1145/3639477.3639754)]
   [[BibTex](https://www.zhihan-jiang.com/files/ICSE'24/FaultProfIT-bibtex.txt)]
 
