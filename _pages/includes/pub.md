@@ -40,6 +40,19 @@
   [[BibTex](https://www.zhihan-jiang.com/files/FSE'24/SCLogger-bibtex.txt)]
 
 
+* `CLOUD'24` **TraceMesh: Scalable and Streaming Sampling for Distributed Traces**
+
+  <span style="font-size:14px;"> Zhuangbin Chen, **Zhihan Jiang**, Yuxin Su, Michael R. Lyu and Zibin Zheng. </span>
+
+  <span style="font-size:14px;"> *The IEEE International Conference on Cloud Computing, Shenzhen, China, July 2024.* </span>
+
+  [[Paper](https://www.zhihan-jiang.com/files/CLOUD'24/TraceMesh.pdf)]
+  [[Project](https://github.com/OpsPAI/TraceMesh)]
+  [Slides]
+  [DOI]
+  [BibTex]
+
+
 * `ICSE'24` **FaultProfIT: Hierarchical Fault Profiling of Incident Tickets in Large-scale Cloud Systems**
 
   <span style="font-size:14px;"> Junjie Huang, Jinyang Liu, Zhuangbin Chen, **Zhihan Jiang**, Yichen Li, Jiazhen Gu, Cong Feng, Zengyin Yang, Yongqiang Yang, and Michael R. Lyu. </span>

@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhihan"
-description              : "Ph.D. student of CSE, CUHK"
+description              : "Ph.D. candidate of CSE, CUHK"
 repository               : "zhjiang22/zhjiang22.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : "zhjiang22"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0003-1988-6219"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
