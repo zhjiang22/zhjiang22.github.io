@@ -10,8 +10,9 @@
 
 
 # 💼 Services
-- (Sub-)reviewer: ICSE'25, FSE'24, ICPE'24, ESEC/FSE'23, DSN'23, ISSRE'23
+- Program Committee: ASE'24-industry
 - Artifact Evaluation Committee: OSDI'24, ATC'24, ISSTA'24
+- (Sub-)reviewer: ICSE'25, FSE'24, ISSRE'24, ICPE'24, ESEC/FSE'23, DSN'23, ISSRE'23
 
 
 # 💬 Teaching Assistants
