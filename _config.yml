@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhihan Jiang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "May we meet by chance, and smiling."
+  # bio              : ""
   location         : "ShaTin, Hong Kong"
   employer         :
   pubmed           : 
