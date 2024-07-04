@@ -1,4 +1,4 @@
-# 📝 Publications
+# 📝 Publications [[Full List](https://scholar.google.com/citations?hl=en&user=6F85yPcAAAAJ)]
 
 
 * `ISSTA'24` **A Large-scale Evaluation for Log Parsing Techniques: How Far are We?**
