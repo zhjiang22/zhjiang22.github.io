@@ -50,7 +50,7 @@
   [[Project](https://github.com/OpsPAI/TraceMesh)]
   [Slides]
   [DOI]
-  [BibTex]
+  [[BibTex](https://www.zhihan-jiang.com/files/CLOUD'24/TraceMesh-bibtex.txt)]
 
 
 * `ICSE'24` **FaultProfIT: Hierarchical Fault Profiling of Incident Tickets in Large-scale Cloud Systems**

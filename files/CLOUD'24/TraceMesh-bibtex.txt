@@ -1,0 +1,6 @@
+@article{chen2024tracemesh,
+  title={TraceMesh: Scalable and Streaming Sampling for Distributed Traces},
+  author={Chen, Zhuangbin and Jiang, Zhihan and Su, Yuxin and Lyu, Michael R and Zheng, Zibin},
+  journal={arXiv preprint arXiv:2406.06975},
+  year={2024}
+}
