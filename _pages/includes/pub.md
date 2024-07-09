@@ -44,11 +44,13 @@
 
   <span style="font-size:14px;"> Zhuangbin Chen, **Zhihan Jiang**, Yuxin Su, Michael R. Lyu and Zibin Zheng. </span>
 
-  <span style="font-size:14px;"> *The IEEE International Conference on Cloud Computing, Shenzhen, China, July 2024.* </span>
+  <span style="font-size:14px;"> *The IEEE International Conference on Cloud Computing, Shenzhen, China, July 2024.*  </span>
+
+  🏆 <span style="color:red">Best Paper Award</span>
 
   [[Paper](https://www.zhihan-jiang.com/files/CLOUD'24/TraceMesh.pdf)]
   [[Project](https://github.com/OpsPAI/TraceMesh)]
-  [Slides]
+  [[Slides](https://www.zhihan-jiang.com/files/CLOUD'24/TraceMesh-slides.pdf)]
   [DOI]
   [[BibTex](https://www.zhihan-jiang.com/files/CLOUD'24/TraceMesh-bibtex.txt)]
 
@@ -57,7 +59,7 @@
 
   <span style="font-size:14px;"> Junjie Huang, Jinyang Liu, Zhuangbin Chen, **Zhihan Jiang**, Yichen Li, Jiazhen Gu, Cong Feng, Zengyin Yang, Yongqiang Yang, and Michael R. Lyu. </span>
 
-  <span style="font-size:14px;"> *The IEEE/ACM International Conference on Software Engineering: Software Engineering in Practice, Lisbon, Portugal, Apr 2024.* </span>
+  <span style="font-size:14px;"> *The IEEE/ACM International Conference on Software Engineering, Lisbon, Portugal, Apr 2024.* </span>
 
   [[Paper](https://www.zhihan-jiang.com/files/ICSE'24/FaultProfIT.pdf)]
   [[Slides](https://www.zhihan-jiang.com/files/ICSE'24/FaultProfIT-slides.pdf)]

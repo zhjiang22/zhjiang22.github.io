@@ -5,6 +5,7 @@
 
 
 # 🎖 Honors and Awards
+- Best Paper Award for IEEE CLOUD'24, 2024.
 - National Scholarship, Ministry of Education of the P.R. China. 2020-2021.
 - The First Prize Scholarship, Sun Yat-sen University. 2019-2021.
 
