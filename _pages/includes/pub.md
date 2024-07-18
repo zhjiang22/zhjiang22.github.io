@@ -22,7 +22,7 @@
 
   [[Paper](https://www.zhihan-jiang.com/files/FSE'24/LILAC.pdf)]
   [[Project](https://github.com/logpai/LILAC)]
-  [Slides]
+  [[Slides](https://www.zhihan-jiang.com/files/FSE'24/LILAC-slides.pdf)]
   [[DOI](https://doi.org/10.1145/3643733)]
   [[BibTex](https://www.zhihan-jiang.com/files/FSE'24/LILAC-bibtex.txt)]
 
@@ -35,7 +35,7 @@
 
   [[Paper](https://www.zhihan-jiang.com/files/FSE'24/SCLogger.pdf)]
   [[Project](https://github.com/YichenLi00/SCLogger)]
-  [Slides]
+  [[Slides](https://www.zhihan-jiang.com/files/FSE'24/SCLogger-slides.pdf)]
   [[DOI](https://doi.org/10.1145/3643754)]
   [[BibTex](https://www.zhihan-jiang.com/files/FSE'24/SCLogger-bibtex.txt)]
 

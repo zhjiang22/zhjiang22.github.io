@@ -2,7 +2,7 @@ I am a 3rd-year CSE Ph.D. student in [ARISE Lab](http://ariselab.cse.cuhk.edu.hk
 
 💡 My research interests lie in the reliability of large-scale cloud systems and LLM systems. Currently, my primary focus is on automated analysis and operations utilizing heterogeneous data, e.g., logs, traces, metrics and alerts.
 
-*I always welcome the opportunity to collaborate and discuss research topics. Feel free to drop me an email if you're interested in connecting with me.* 😃
+😃 *I always welcome the opportunity to collaborate and discuss research topics. Feel free to drop me an email if you're interested in connecting with me.*
 
 
 
