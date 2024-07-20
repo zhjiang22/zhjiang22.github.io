@@ -1,6 +1,10 @@
 @article{li2024go,
-  title={Go Static: Contextualized Logging Statement Generation},
+  title={Go static: Contextualized logging statement generation},
   author={Li, Yichen and Huo, Yintong and Zhong, Renyi and Jiang, Zhihan and Liu, Jinyang and Huang, Junjie and Gu, Jiazhen and He, Pinjia and Lyu, Michael R},
-  journal={arXiv preprint arXiv:2402.12958},
-  year={2024}
+  journal={Proceedings of the ACM on Software Engineering},
+  volume={1},
+  number={FSE},
+  pages={609--630},
+  year={2024},
+  publisher={ACM New York, NY, USA}
 }

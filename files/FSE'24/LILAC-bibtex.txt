@@ -1,6 +1,10 @@
-@article{jiang2023llmparser,
-  title={LLMParser: A LLM-based Log Parsing Framework},
+@article{jiang2024lilac,
+  title={LILAC: Log Parsing using LLMs with Adaptive Parsing Cache},
   author={Jiang, Zhihan and Liu, Jinyang and Chen, Zhuangbin and Li, Yichen and Huang, Junjie and Huo, Yintong and He, Pinjia and Gu, Jiazhen and Lyu, Michael R},
-  journal={arXiv preprint arXiv:2310.01796},
-  year={2023}
+  journal={Proceedings of the ACM on Software Engineering},
+  volume={1},
+  number={FSE},
+  pages={137--160},
+  year={2024},
+  publisher={ACM New York, NY, USA}
 }
