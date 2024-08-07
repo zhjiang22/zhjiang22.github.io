@@ -8,8 +8,8 @@ body_attr: >-
 
 <blockquote>
     <!-- All papers that have not been peer-reviewed will not appear here, including preprints. You can access my all of papers at <a href="https://scholar.google.com/citations?user=SSaBaioAAAAJ">🔗Google Scholar</a>. -->
-    Here are my publications that have been peer-reviewed.
-    You may access my all of papers including preprints at <a href="https://scholar.google.com/citations?user=6F85yPcAAAAJ&hl=en">🔗Google Scholar</a>.
+    Here are my peer-reviewed publications.
+    You may access all of my papers, including preprints, on <a href="https://scholar.google.com/citations?user=6F85yPcAAAAJ&hl=en">🔗Google Scholar</a>.
 </blockquote>
 
 {% assign pubs_by_year = site.publications | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
