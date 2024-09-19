@@ -28,7 +28,7 @@ links:
   Paper: https://www.zhihan-jiang.com/files/ISSTA24/Loghub-2.0.pdf
   Arxiv: https://arxiv.org/abs/2308.10828
   Project: https://github.com/logpai/Loghub-2.0
-  Slides:
+  Slides: https://www.zhihan-jiang.com/files/ISSTA24/Loghub-2.0-slides.pdf
   DOI: https://doi.org/10.1145/3650212.3652123
   BibTex: https://www.zhihan-jiang.com/files/ISSTA24/Loghub-2.0-bibtex.txt
 ---

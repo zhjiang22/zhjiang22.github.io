@@ -24,6 +24,6 @@ links:
   Arxiv: https://arxiv.org/abs/2406.06975
   Project: https://github.com/OpsPAI/TraceMesh
   Slides: https://www.zhihan-jiang.com/files/CLOUD24/TraceMesh-slides.pdf
-  DOI: 
+  DOI: https://doi.org/10.1109/CLOUD62652.2024.00016
   BibTex: https://www.zhihan-jiang.com/files/CLOUD24/TraceMesh-bibtex.txt
 ---
