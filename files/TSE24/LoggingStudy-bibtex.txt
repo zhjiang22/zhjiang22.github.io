@@ -1,0 +1,6 @@
+@article{li2023exploring,
+  title={Exploring the effectiveness of llms in automated logging generation: An empirical study},
+  author={Li, Yichen and Huo, Yintong and Jiang, Zhihan and Zhong, Renyi and He, Pinjia and Su, Yuxin and Lyu, Michael R},
+  journal={arXiv preprint arXiv:2307.05950},
+  year={2023}
+}
