@@ -28,10 +28,10 @@ authors:
     - Zengyin Yang
     - Michael R. Lyu
 links:
-  Paper: 
-  Arxiv:
-  Project:
+  Paper: https://www.zhihan-jiang.com/files/ISSRE24/LoFI.pdf
+  Arxiv: https://www.arxiv.org/abs/2409.13561
+  Project: https://github.com/Jun-jie-Huang/LoFI
   Slides: 
   DOI: 
-  BibTex: 
+  BibTex: https://www.zhihan-jiang.com/files/ISSRE24/LoFI-bibtex.txt
 ---

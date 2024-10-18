@@ -1,0 +1,6 @@
+@article{huang2024demystifying,
+  title={Demystifying and Extracting Fault-indicating Information from Logs for Failure Diagnosis},
+  author={Huang, Junjie and Jiang, Zhihan and Liu, Jinyang and Huo, Yintong and Gu, Jiazhen and Chen, Zhuangbin and Feng, Cong and Dong, Hui and Yang, Zengyin and Lyu, Michael R},
+  journal={arXiv preprint arXiv:2409.13561},
+  year={2024}
+}
