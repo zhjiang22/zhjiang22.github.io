@@ -3,7 +3,7 @@ title:          "FaultProfIT: Hierarchical Fault Profiling of Incident Tickets i
 date:           2024-04-14 00:00:00 +0800
 selected:       false
 pub:            >-
-                The IEEE/ACM International Conference on Software Engineering: Software Engineering in Practice, Lisbon, Portugal, Apr 2024.
+                The IEEE/ACM International Conference on Software Engineering, Software Engineering in Practice, Lisbon, Portugal, Apr 2024.
 pub_pre:        >-
                 <span class="badge badge-pill badge-custom badge-success">ICSE'24</span>
 # pub_post:       'Under review.'
