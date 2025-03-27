@@ -32,6 +32,6 @@ links:
   Arxiv: https://www.arxiv.org/abs/2409.13561
   Project: https://github.com/Jun-jie-Huang/LoFI
   Slides: https://www.zhihan-jiang.com/files/ISSRE24/LoFI-slides.pdf
-  DOI: 10.1109/ISSRE62328.2024.00055
+  DOI: https://doi.org/10.1109/ISSRE62328.2024.00055
   BibTex: https://www.zhihan-jiang.com/files/ISSRE24/LoFI-bibtex.txt
 ---

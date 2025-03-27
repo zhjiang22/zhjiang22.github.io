@@ -25,6 +25,6 @@ links:
   Paper: 
   Arxiv: 
   Slides: 
-  DOI: 10.1109/ICSE55347.2025.00234
+  DOI: https://doi.ieeecomputersociety.org/10.1109/ICSE55347.2025.00234
   BibTex: https://www.zhihan-jiang.com/files/ICSE25/COCA-bibtex.txt
 ---
