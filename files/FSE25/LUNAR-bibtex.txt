@@ -1,0 +1,6 @@
+@article{huang2024lunar,
+  title={LUNAR: Unsupervised LLM-based Log Parsing},
+  author={Huang, Junjie and Jiang, Zhihan and Chen, Zhuangbin and Lyu, Michael R},
+  journal={arXiv preprint arXiv:2406.07174},
+  year={2024}
+}

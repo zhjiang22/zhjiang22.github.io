@@ -9,7 +9,7 @@ pub_pre:        >-
 # pub_post:       'Under review.'
 # pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-warning">Poster</span>'
 abstract: >-
-    Log parsing serves as a prerequisite for various log analysis tasks,  but the performance of current syntax-based and semantic-based parsers remains unsatisfactory.
+    Log parsing serves as a prerequisite for various log analysis tasks, but the performance of current syntax-based and semantic-based parsers remains unsatisfactory.
     Leveraging large language models (LLMs) to overcome the limitations of existing log parsers is promising; however, it presents challenges related to <i>specialization</i>, <i>consistency</i> and <i>efficiency</i>. 
     To address these practical issues, we propose LILAC, the first practical <u>L</u>og pars<u>I</u>ng framework using <u>L</u>LMs with <u>A</u>daptive parsing <u>C</u>ache.
 # cover:          assets/images/covers/Prism-cover.png

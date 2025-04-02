@@ -1,0 +1,6 @@
+@article{jiang2025l4,
+  title={L4: Diagnosing Large-scale LLM Training Failures via Automated Log Analysis},
+  author={Jiang, Zhihan and Huang, Junjie and Chen, Zhuangbin and Li, Yichen and Yu, Guangba and Feng, Cong and Yang, Yongqiang and Yang, Zengyin and Lyu, Michael R},
+  journal={arXiv preprint arXiv:2503.20263},
+  year={2025}
+}
