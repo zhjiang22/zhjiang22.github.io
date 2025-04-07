@@ -15,7 +15,7 @@ authors:
     - Zhuangbin Chen†
     - Michael R. Lyu
 links:
-  Paper:
+  Paper: 
   Arxiv: https://arxiv.org/abs/2406.07174
   Project: 
   Slides: 

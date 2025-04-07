@@ -23,8 +23,8 @@ authors:
     - Michael R. Lyu
 links:
   Paper: https://www.zhihan-jiang.com/files/ICSE25/COCA.pdf
-  Arxiv: 
-  Project: 
+  Arxiv: https://arxiv.org/abs/2503.23051
+  Project: https://github.com/YichenLi00/COCA
   Slides: 
   DOI: https://doi.ieeecomputersociety.org/10.1109/ICSE55347.2025.00234
   BibTex: https://www.zhihan-jiang.com/files/ICSE25/COCA-bibtex.txt
