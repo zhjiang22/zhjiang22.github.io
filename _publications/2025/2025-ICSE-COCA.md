@@ -1,7 +1,7 @@
 ---
 title:          "COCA: Generative Root Cause Analysis for Distributed Systems with Code Knowledge"
 date:           2025-01-19 00:00:00 +0800
-selected:       false
+selected:       true
 pub:            >-
                 The IEEE/ACM International Conference on Software Engineering, Ottawa, Ontario, Canada, Apr 2025.
 pub_pre:        >-

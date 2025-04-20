@@ -1,7 +1,7 @@
 ---
 title:          "No More Labelled Examples? An Unsupervised Log Parser with LLMs"
 date:           2025-04-02 00:00:00 +0800
-selected:       false
+selected:       true
 pub:            >-
                 The ACM International Conference on the Foundations of Software Engineering, Trondheim, Norway, Jun 2025.
 pub_pre:        >-
@@ -15,9 +15,9 @@ authors:
     - Zhuangbin Chen†
     - Michael R. Lyu
 links:
-  Paper: 
+  Paper: https://www.zhihan-jiang.com/files/FSE25/LUNAR.pdf
   Arxiv: https://arxiv.org/abs/2406.07174
-  Project: 
+  Project: https://github.com/Jun-jie-Huang/LUNAR
   Slides: 
   DOI:
   BibTex: https://www.zhihan-jiang.com/files/FSE25/LUNAR-bibtex.txt

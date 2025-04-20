@@ -1,7 +1,7 @@
 ---
 title:          "Exploring the Effectiveness of LLMs in Automated Logging Statement Generation: An Empirical Study"
 date:           2024-09-27 00:00:00 +0800
-selected:       false
+selected:       true
 pub:            >-
                 IEEE Transactions on Software Engineering.
 pub_pre:        >-
