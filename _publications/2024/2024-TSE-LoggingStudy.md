@@ -3,7 +3,7 @@ title:          "Exploring the Effectiveness of LLMs in Automated Logging Statem
 date:           2024-09-27 00:00:00 +0800
 selected:       true
 pub:            >-
-                IEEE Transactions on Software Engineering.
+                IEEE Transactions on Software Engineering, 2024.
 pub_pre:        >-
                 <span class="badge badge-pill badge-custom badge-success">TSE'24</span>
 # pub_post:       'Under review.'
