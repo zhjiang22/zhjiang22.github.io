@@ -1,7 +1,7 @@
 ---
 title:          "No More Labelled Examples? An Unsupervised Log Parser with LLMs"
 date:           2025-04-02 00:00:00 +0800
-selected:       true
+selected:       false
 pub:            >-
                 The ACM International Conference on the Foundations of Software Engineering, Trondheim, Norway, Jun 2025.
 pub_pre:        >-

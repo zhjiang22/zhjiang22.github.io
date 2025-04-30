@@ -1,7 +1,7 @@
 ---
 title:          "Demystifying and Extracting Fault-indicating Information from Logs for Failure Diagnosis"
 date:           2024-10-28 00:00:00 +0800
-selected:       true
+selected:       false
 pub:            >-
                 The International Symposium on Software Reliability Engineering, Tsukuba, Japan, Oct 2024.
 pub_pre:        >-
