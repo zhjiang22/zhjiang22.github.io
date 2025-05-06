@@ -62,7 +62,7 @@ awards:
 
 service:
 - name: "Program Committee : APSEC'25, MSR'25, ASE'24-industry"
-- name: "Artifact Evaluation Committee: OSDI'25, OSDI'24, ATC'24, ISSTA'24, ICSE'25"
+- name: "Artifact Evaluation Committee: OSDI'25, ATC'25, OSDI'24, ATC'24, ISSTA'24, ICSE'25"
 - name: |
         (Sub-)reviewer: FSE'25-industry, TOSEM, EEAI, ISSTA'25, ICSE'25, FSE'24, ISSRE'24, ICPE'24,
                       ESEC/FSE'23, DSN'23, ISSRE'23

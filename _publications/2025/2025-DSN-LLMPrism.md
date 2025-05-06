@@ -24,8 +24,8 @@ authors:
     - Michael R. Lyu
 links:
   Paper: https://www.zhihan-jiang.com/files/DSN25/LLMPrism.pdf
-  Arxiv: 
+  Arxiv: https://arxiv.org/abs/2505.00342
   Slides: 
   DOI:
-  BibTex:
+  BibTex: https://www.zhihan-jiang.com/files/DSN25/LLMPrism-bibtex.txt
 ---

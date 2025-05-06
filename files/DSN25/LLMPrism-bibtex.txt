@@ -1,0 +1,6 @@
+@article{jiang2025llmprism,
+  title={LLMPrism: Black-box Performance Diagnosis for Production LLM Training Platforms},
+  author={Jiang, Zhihan and Ren, Rui and Yu, Guangba and Wu, Yulun and Gu, Wenwei and Li, Yichen and Huang, Yujie and Feng, Cong and Yang, Zengyin and Yang, Yongqiang and others},
+  journal={arXiv preprint arXiv:2505.00342},
+  year={2025}
+}
