@@ -18,7 +18,7 @@ links:
   Paper: https://www.zhihan-jiang.com/files/FSE25/LUNAR.pdf
   Arxiv: https://arxiv.org/abs/2406.07174
   Project: https://github.com/Jun-jie-Huang/LUNAR
-  Slides: 
-  DOI:
+  Slides: https://www.zhihan-jiang.com/files/FSE25/LUNAR-slides.pdf
+  DOI: https://doi.org/10.1145/3729377
   BibTex: https://www.zhihan-jiang.com/files/FSE25/LUNAR-bibtex.txt
 ---

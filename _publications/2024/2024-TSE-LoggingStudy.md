@@ -26,7 +26,7 @@ links:
   Paper: https://www.zhihan-jiang.com/files/TSE24/LoggingStudy.pdf
   Arxiv: https://arxiv.org/abs/2307.05950
   Project: https://github.com/logpai/LogBench
-  # Slides:
+  Slides: https://www.zhihan-jiang.com/files/TSE24/LoggingStudy-slides.pdf
   DOI: https://doi.org/10.1109/TSE.2024.3475375
   BibTex: https://www.zhihan-jiang.com/files/TSE24/LoggingStudy-bibtex.txt
 ---
