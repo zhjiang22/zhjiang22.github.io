@@ -19,7 +19,7 @@ authors:
     - Jinyang Liu
     - Zhihan Jiang
     - Zhuangbin Chen
-    - Guangba Yu†
+    - Guangba Yu
     - Michael R. Lyu
 links:
   Paper: https://www.zhihan-jiang.com/files/ICSE25/COCA.pdf
