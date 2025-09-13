@@ -5,7 +5,7 @@ navbar_name: "Zhihan's Home Page"
 positions:
   - '<span class="no-break"><img src="assets/images/badges/CUHK.JPG" alt="The Chinese University of Hong Kong" class="inline-badge"/></span> Ph.D. Candidate, CUHK'
 
-email: "zhjiang@link.cuhk.edu.hk"
+email: "zhjiang22@cse.cuhk.edu.hk"
 gscholar: 6F85yPcAAAAJ
 github: zhjiang22
 # twitter: zhjiang22
@@ -16,7 +16,7 @@ linkedin: zhjiang22
 orcid: 0009-0003-1988-6219
 
 short_bio: >-
-  I am a 3rd-year CSE Ph.D. candidate in <a href="http://ariselab.cse.cuhk.edu.hk/">ARISE Lab</a> at The Chinese University of Hong Kong, supervised by <a href="https://www.cse.cuhk.edu.hk/lyu/">Prof. Michael R. Lyu</a>.
+  I am a 4th-year CSE Ph.D. candidate in <a href="http://ariselab.cse.cuhk.edu.hk/">ARISE Lab</a> at The Chinese University of Hong Kong, supervised by <a href="https://www.cse.cuhk.edu.hk/lyu/">Prof. Michael R. Lyu</a>.
   Previously, I obtained my Bachelor's degree from Sun Yat-sen University, in 2022.
   <br>
   💡 I focus on <b>enhancing the observability and reliability of large-scale cloud systems and LLM systems</b>, especially based on heterogeneous monitoring data (e.g., logs, traces, metrics and alerts).
@@ -26,7 +26,7 @@ short_bio: >-
   😃 <b>I am actively seeking opportunities in the job market for 2026.</b> <em>Feel free to drop me an email if you're interested in connecting with me.</em>
 
 show_portrait: true
-portrait_url: assets/images/photos/portrait.jpg
+portrait_url: assets/images/photos/portrait.jpeg
 portrait_caption: >-
   Welcome to my personal website!
 
@@ -41,6 +41,7 @@ education:
   date: Sep. 2018 - Jul. 2022
   score: >-
          GPA: 4.0/4.0; Rank: 1/40
+         IELTS band: 7.5
 
   
 teaching:
@@ -63,10 +64,13 @@ awards:
 service:
 - name: "Program Committee : APSEC'25, MSR'25, ASE'24-industry"
 - name: "Artifact Evaluation Committee: OSDI'25, ATC'25, OSDI'24, ATC'24, ISSTA'24, ICSE'25"
-- name: |
-        (Sub-)reviewer: ICSE'25, ISSTA'25, ASE'25, ISSRE'25, FSE'25-industry, TOSEM, EEAI, FSE'24, ISSRE'24, ICPE'24,
+- name: (Sub-)reviewer: >-
+        Transactions: TOSEM, CSUR, EEAI
+        Conferences: |
+                      ICSE'25, ISSTA'25, ASE'25, ISSRE'25, FSE'25-industry
+                      FSE'24, ISSRE'24, ICPE'24
                       ESEC/FSE'23, DSN'23, ISSRE'23
-                      
+
 
 footer_text: >-
   Copyright © 2025 <a href="https://github.com/zhjiang22/zhjiang22.github.io" target="_blank">Zhihan Jiang</a>. All Rights Reserved.
