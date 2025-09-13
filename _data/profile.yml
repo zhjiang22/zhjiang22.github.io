@@ -19,8 +19,8 @@ short_bio: >-
   I am a 4th-year CSE Ph.D. candidate in <a href="http://ariselab.cse.cuhk.edu.hk/">ARISE Lab</a> at The Chinese University of Hong Kong, supervised by <a href="https://www.cse.cuhk.edu.hk/lyu/">Prof. Michael R. Lyu</a>.
   Previously, I obtained my Bachelor's degree from Sun Yat-sen University, in 2022.
   <br>
-  💡 I focus on <b>enhancing the observability and reliability of large-scale cloud systems and LLM systems</b>, especially based on heterogeneous monitoring data (e.g., logs, traces, metrics and alerts).
-  My recent work explores AIOps for LLM training and serving systems <mark>(Ops4LLM)</mark> and the use of LLMs to enhance AIOps <mark>(LLM4Ops)</mark>.
+  💡 I focus on <b>enhancing the observability and reliability of large-scale cloud and LLM systems</b>, especially based on heterogeneous monitoring data (e.g., logs, traces, metrics and alerts).
+  My recent work explores AIOps for LLM training/inference systems <mark>(Ops4LLM)</mark> and the use of LLMs to advance AIOps <mark>(LLM4Ops)</mark>.
   <br>
   😃 <b>I am actively seeking opportunities in the job market for 2026.</b> <em>Feel free to drop me an email if you're interested in connecting with me.</em>
 
