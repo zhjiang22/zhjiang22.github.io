@@ -62,9 +62,9 @@ awards:
 service:
 - name: "Program Committee : FORGE'26, APSEC'25, MSR'25, ASE'24-industry"
 - name: "Artifact Evaluation Committee: OSDI'25, ATC'25, OSDI'24, ATC'24, ISSTA'24, ICSE'25"
-- name: "Transaction reviewer: TOSEM, CSUR, EEAI"
+- name: "Journal Reviewer: TOSEM, CSUR, EEAI"
 - name: >-
-        Conference (sub-)reviewer:
+        Conference (sub-)Reviewer:
           ASE'25, ICSE'25, ISSTA'25, ISSRE'25, FSE'25-industry
           FSE'24, ISSRE'24, ICPE'24
           ESEC/FSE'23, DSN'23, ISSRE'23
