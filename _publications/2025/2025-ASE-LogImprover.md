@@ -1,6 +1,6 @@
 ---
 title:          "Automated Proactive Logging Quality Improvement for Large-Scale Codebases"
-date:           2025-09-12 00:00:02 +0800
+date:           2025-09-12 00:00:01 +0800
 selected:       false
 pub:            >-
                 The IEEE/ACM International Conference on Automated Software Engineering, Seoul, South Korea, Nov 2025.
@@ -26,7 +26,7 @@ authors:
     - Michael R. Lyu
 
 links:
-  Paper:
+  Paper: https://www.zhihan-jiang.com/files/ASE25/LogImprover.pdf
   Arxiv:
   Slides:
   DOI:

@@ -25,9 +25,9 @@ authors:
     - Michael R. Lyu
 
 links:
-  Paper: 
-  Arxiv: 
+  Paper: https://www.zhihan-jiang.com/files/ASE25/LogPilot.pdf
+  Arxiv: https://arxiv.org/abs/2509.25874
   Slides: 
   DOI: 
-  BibTex: 
+  BibTex: https://www.zhihan-jiang.com/files/ASE25/LogPilot-bibtex.txt
 ---

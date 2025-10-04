@@ -1,6 +1,6 @@
 ---
 title:          "ErrorPrism: Reconstructing Error Propagation Paths in Cloud Service Systems"
-date:           2025-09-12 00:00:01 +0800
+date:           2025-09-12 00:00:00 +0800
 selected:       false
 pub:            >-
                 The IEEE/ACM International Conference on Automated Software Engineering, Seoul, South Korea, Nov 2025.
@@ -26,9 +26,9 @@ authors:
 
 
 links:
-  Paper:
-  Arxiv:
+  Paper: https://www.zhihan-jiang.com/files/ASE25/ErrorPrism.pdf
+  Arxiv: https://arxiv.org/abs/2509.26463
   Slides:
   DOI:
-  BibTex:
+  BibTex: https://www.zhihan-jiang.com/files/ASE25/ErrorPrism-bibtex.txt
 ---

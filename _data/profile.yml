@@ -65,8 +65,9 @@ service:
 - name: "Journal Reviewer: TOSEM, CSUR, EEAI"
 - name: >-
         Conference (sub-)Reviewer:
-          ASE'25, ICSE'25, ISSTA'25, ISSRE'25, FSE'25-industry
-          FSE'24, ISSRE'24, ICPE'24
+          FSE'26,
+          ASE'25, ICSE'25, ISSTA'25, ISSRE'25, FSE'25-industry,
+          FSE'24, ISSRE'24, ICPE'24,
           ESEC/FSE'23, DSN'23, ISSRE'23
 
 

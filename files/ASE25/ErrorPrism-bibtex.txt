@@ -1,0 +1,6 @@
+@article{pu2025errorprism,
+  title={ErrorPrism: Reconstructing Error Propagation Paths in Cloud Service Systems},
+  author={Pu, Junsong and Li, Yichen and Chen, Zhuangbin and Liu, Jinyang and Jiang, Zhihan and Chen, Jianjun and Shi, Rui and Zheng, Zibin and Zhang, Tieying},
+  journal={arXiv preprint arXiv:2509.26463},
+  year={2025}
+}

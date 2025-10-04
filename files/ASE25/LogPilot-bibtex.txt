@@ -1,0 +1,6 @@
+@article{jiang2025logpilot,
+  title={LogPilot: Intent-aware and Scalable Alert Diagnosis for Large-scale Online Service Systems},
+  author={Jiang, Zhihan and Liu, Jinyang and Li, Yichen and Huang, Haiyu and He, Xiao and Zhang, Tieying and Chen, Jianjun and Li, Yi and Shi, Rui and Lyu, Michael R},
+  journal={arXiv preprint arXiv:2509.25874},
+  year={2025}
+}
