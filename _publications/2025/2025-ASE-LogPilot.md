@@ -1,6 +1,6 @@
 ---
 title:          "LogPilot: Intent-aware and Scalable Alert Diagnosis for Large-scale Online Service Systems"
-date:           2025-09-12 00:00:03 +0800
+date:           2025-11-16 00:00:03 +0800
 selected:       true
 pub:            >-
                 The IEEE/ACM International Conference on Automated Software Engineering, Seoul, South Korea, Nov 2025.

@@ -1,6 +1,6 @@
 ---
 title:          "iKnow: an Intent-Guided Chatbot for Cloud Operations with Retrieval-Augmented Generation"
-date:           2025-09-12 00:00:02 +0800
+date:           2025-11-16 00:00:02 +0800
 selected:       false
 pub:            >-
                 The IEEE/ACM International Conference on Automated Software Engineering, Seoul, South Korea, Nov 2025.
