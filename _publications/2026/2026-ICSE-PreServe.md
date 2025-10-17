@@ -7,7 +7,7 @@ pub:            >-
 pub_pre:        >-
                 <span class="badge badge-pill badge-custom badge-success">ICSE'26</span>
 abstract: >-
-    LLM-as-a-Service platforms handle millions of daily requests and must meet low-latency, SLO, and efficiency goals, but conventional cloud managers falter under LMaaS’s dynamic, bursty workloads.
+    Language-Model-as-a-Service (LMaaS) platforms handle millions of daily requests and must meet low-latency, SLO, and efficiency goals, but conventional cloud managers falter under LMaaS’s dynamic, bursty workloads.
     We introduce a hierarchical-prediction management framework that pairs a coarse-grained service-workload predictor with a fine-grained request-load predictor to build per-instance load anticipators.
     By fusing long- and short-term forecasts, it proactively auto-scales resources and routes requests based on current and anticipated load, preventing under-/over-provisioning and instance load imbalancing.
 
@@ -22,7 +22,8 @@ authors:
 
 links:
   Paper: 
-  Arxiv:
+  Arxiv: https://arxiv.org/abs/2504.03702
+  Project:
   Slides: 
   DOI: 
   BibTex:

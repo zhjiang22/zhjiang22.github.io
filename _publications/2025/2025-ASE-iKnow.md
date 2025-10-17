@@ -28,6 +28,7 @@ authors:
 links:
   Paper:
   Arxiv:
+  Project:
   Slides:
   DOI:
   BibTex:
