@@ -21,10 +21,10 @@ authors:
     - Michael R. Lyu
 
 links:
-  Paper: 
+  Paper: https://www.zhihan-jiang.com/files/ICSE26/PreServe.pdf
   Arxiv: https://arxiv.org/abs/2504.03702
-  Project:
+  Project: https://github.com/OpsPAI/PreServe
   Slides: 
   DOI: 
-  BibTex:
+  BibTex: https://www.zhihan-jiang.com/files/ICSE26/PreServe-bibtex.txt
 ---
