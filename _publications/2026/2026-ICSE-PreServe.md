@@ -24,7 +24,7 @@ links:
   Paper: https://www.zhihan-jiang.com/files/ICSE26/PreServe.pdf
   Arxiv: https://arxiv.org/abs/2504.03702
   Project: https://github.com/OpsPAI/PreServe
-  Slides: 
+  Slides: https://www.zhihan-jiang.com/files/ICSE26/PreServe-slides.pdf
   DOI: 
   BibTex: https://www.zhihan-jiang.com/files/ICSE26/PreServe-bibtex.txt
 ---
