@@ -27,7 +27,7 @@ authors:
 links:
   Paper: https://www.zhihan-jiang.com/files/ASE25/LogPilot.pdf
   Arxiv: https://arxiv.org/abs/2509.25874
-  Slides: 
+  Slides:
   DOI: 
   BibTex: https://www.zhihan-jiang.com/files/ASE25/LogPilot-bibtex.txt
 ---
