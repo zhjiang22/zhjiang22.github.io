@@ -1,0 +1,6 @@
+@article{jiang2023llmparser,
+  title={LLMParser: A LLM-based Log Parsing Framework},
+  author={Jiang, Zhihan and Liu, Jinyang and Chen, Zhuangbin and Li, Yichen and Huang, Junjie and Huo, Yintong and He, Pinjia and Gu, Jiazhen and Lyu, Michael R},
+  journal={arXiv preprint arXiv:2310.01796},
+  year={2023}
+}

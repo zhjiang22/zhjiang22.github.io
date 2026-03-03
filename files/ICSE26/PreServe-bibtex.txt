@@ -1,0 +1,6 @@
+@article{jiang2025hierarchical,
+  title={PreServe: Intelligent Management for LMaaS Systems via Hierarchical Prediction},
+  author={Jiang, Zhihan and Huang, Yujie and Yu, Guangba and Huang, Junjie and Gu, Jiazhen and Lyu, Michael R},
+  journal={arXiv preprint arXiv:2504.03702},
+  year={2025}
+}

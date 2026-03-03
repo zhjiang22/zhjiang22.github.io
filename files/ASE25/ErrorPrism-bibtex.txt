@@ -1,0 +1,8 @@
+@inproceedings{pu2025errorprism,
+  title={ErrorPrism: Reconstructing Error Propagation Paths in Cloud Service Systems},
+  author={Pu, Junsong and Li, Yichen and Chen, Zhuangbin and Liu, Jinyang and Jiang, Zhihan and Chen, Jianjun and Shi, Rui and Zheng, Zibin and Zhang, Tieying},
+  booktitle={2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE)},
+  pages={3534--3545},
+  year={2025},
+  organization={IEEE}
+}

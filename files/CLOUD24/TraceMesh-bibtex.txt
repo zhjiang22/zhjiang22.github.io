@@ -1,0 +1,8 @@
+@inproceedings{chen2024tracemesh,
+  title={Tracemesh: Scalable and streaming sampling for distributed traces},
+  author={Chen, Zhuangbin and Jiang, Zhihan and Su, Yuxin and Lyu, Michael R and Zheng, Zibin},
+  booktitle={2024 IEEE 17th International Conference on Cloud Computing (CLOUD)},
+  pages={54--65},
+  year={2024},
+  organization={IEEE}
+}
