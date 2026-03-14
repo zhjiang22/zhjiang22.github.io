@@ -1,9 +1,10 @@
 name: Update Google Scholar Stats
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"   # every 12 hours
-  workflow_dispatch:           # manual trigger
+  # Re-enable the schedule after the repository owner's GitHub Actions
+  # billing issue is resolved. The account is currently blocked from
+  # starting jobs, so keeping the cron active only creates repeated failures.
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -11,6 +12,7 @@ permissions:
 jobs:
   update-scholar:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
 
@@ -24,6 +26,9 @@ jobs:
       - name: Fetch Google Scholar stats
         env:
           SCHOLAR_ID: "6F85yPcAAAAJ"
+          ALLOW_STALE_ON_FAILURE: "1"
+          SCHOLAR_FETCH_ATTEMPTS: "3"
+          SCHOLAR_FETCH_RETRY_DELAY: "5"
         run: python scripts/fetch_scholar.py
 
       - name: Commit and push if changed
