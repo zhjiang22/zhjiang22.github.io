@@ -1,0 +1,8 @@
+@inproceedings{huang2025iknow,
+  title={iKnow: an Intent-Guided Chatbot for Cloud Operations with Retrieval-Augmented Generation},
+  author={Huang, Junjie and Zhong, Yuedong and Yu, Guangba and Jiang, Zhihan and Yan, Minzhi and Luan, Wenfei and Yang, Tianyu and Ren, Rui and Lyu, Michael R},
+  booktitle={2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE)},
+  pages={958--970},
+  year={2025},
+  organization={IEEE}
+}

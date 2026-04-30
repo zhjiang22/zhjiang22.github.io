@@ -1,0 +1,6 @@
+@article{li2024go,
+  title={Go Static: Contextualized Logging Statement Generation},
+  author={Li, Yichen and Huo, Yintong and Zhong, Renyi and Jiang, Zhihan and Liu, Jinyang and Huang, Junjie and Gu, Jiazhen and He, Pinjia and Lyu, Michael R},
+  journal={arXiv preprint arXiv:2402.12958},
+  year={2024}
+}

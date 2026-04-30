@@ -1,0 +1,37 @@
+---
+title:          "iKnow: an Intent-Guided Chatbot for Cloud Operations with Retrieval-Augmented Generation"
+date:           2025-11-16 00:00:02 +0800
+selected:       true
+pub:            >-
+                The IEEE/ACM International Conference on Automated Software Engineering.
+pub_pre:        >-
+                <span class="badge badge-custom badge-ase">ASE'25</span>
+pub_last:       '<span class="pub-award">&#x1F3C6; ACM SIGSOFT Distinguished Paper Award</span>'
+award:          acm_sigsoft_award.jpeg
+pub_venue: "Seoul, South Korea"
+abstract: >-
+    While the sheer volume of operational documentation required for managing complex cloud services hinders efficient knowledge acquisition, Retrieval-Augmented Generation (RAG) offers a streamlined solution by retrieving relevant knowledge to generate concise, referenced answers.
+    However, deploying a reliable RAG-based chatbot for cloud operation remains a challenge.
+    In this experience paper, we first analyze the development and deployment of RAG-based chatbots for operational question answering (OpsQA) at a large-scale cloud vendor.
+    Base on the findings, we propose iKnow, an intent-guided RAG-based chatbot that integrates intent detection, query rewriting tailored to each intent, and missing knowledge detection to enhance answer quality.
+
+
+authors:
+    - Junjie Huang
+    - Yuedong Zhong
+    - Guangba Yu
+    - Zhihan Jiang†
+    - Minzhi Yan
+    - Wenfei Luan
+    - Tianyu Yang
+    - Rui Ren
+    - Michael R. Lyu
+
+
+links:
+  Paper: https://www.zhihan-jiang.com/files/ASE25/iKnow.pdf
+  Project: https://github.com/Jun-jie-Huang/iKnow
+  Slides: https://www.zhihan-jiang.com/files/ASE25/iKnow-slides.pdf
+  DOI: https://doi.org/10.1109/ASE63991.2025.00084
+  BibTex: https://www.zhihan-jiang.com/files/ASE25/iKnow-bibtex.txt
+---

@@ -1,0 +1,7 @@
+@inproceedings{jiang2025l4,
+  title={L4: Diagnosing large-scale llm training failures via automated log analysis},
+  author={Jiang, Zhihan and Huang, Junjie and Yu, Guangba and Chen, Zhuangbin and Li, Yichen and Zhong, Renyi and Feng, Cong and Yang, Yongqiang and Yang, Zengyin and Lyu, Michael},
+  booktitle={Proceedings of the 33rd ACM International Conference on the Foundations of Software Engineering},
+  pages={51--63},
+  year={2025}
+}

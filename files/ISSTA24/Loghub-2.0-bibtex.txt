@@ -1,0 +1,7 @@
+@inproceedings{jiang2024large,
+  title={A large-scale evaluation for log parsing techniques: How far are we?},
+  author={Jiang, Zhihan and Liu, Jinyang and Huang, Junjie and Li, Yichen and Huo, Yintong and Gu, Jiazhen and Chen, Zhuangbin and Zhu, Jieming and Lyu, Michael R},
+  booktitle={Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis},
+  pages={223--234},
+  year={2024}
+}

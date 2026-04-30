@@ -1,0 +1,6 @@
+@article{jiang2023large,
+  title={A Large-scale Benchmark for Log Parsing},
+  author={Jiang, Zhihan and Liu, Jinyang and Huang, Junjie and Li, Yichen and Huo, Yintong and Gu, Jiazhen and Chen, Zhuangbin and Zhu, Jieming and Lyu, Michael R},
+  journal={arXiv preprint arXiv:2308.10828},
+  year={2023}
+}

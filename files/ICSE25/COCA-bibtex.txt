@@ -1,0 +1,8 @@
+@inproceedings{li2025coca,
+  title={COCA: Generative Root Cause Analysis for Distributed Systems with Code Knowledge},
+  author={Li, Yichen and Wu, Yulun and Liu, Jinyang and Jiang, Zhihan and Chen, Zhuangbin and Yu, Guangba and Lyu, Michael},
+  booktitle={2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE)},
+  pages={770--770},
+  year={2025},
+  organization={IEEE Computer Society}
+}

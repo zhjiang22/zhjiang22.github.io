@@ -1,0 +1,8 @@
+@inproceedings{jiang2025llmprism,
+  title={LLMPrism: Black-box Performance Diagnosis for Production LLM Training Platforms},
+  author={Jiang, Zhihan and Ren, Rui and Yu, Guangba and Wu, Yulun and Gu, Wenwei and Li, Yichen and Huang, Yujie and Feng, Cong and Yang, Zengyin and Yang, Yongqiang and others},
+  booktitle={2025 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks-Supplemental Volume (DSN-S)},
+  pages={1--7},
+  year={2025},
+  organization={IEEE}
+}

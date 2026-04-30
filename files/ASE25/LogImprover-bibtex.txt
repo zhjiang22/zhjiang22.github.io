@@ -1,0 +1,8 @@
+@inproceedings{li2025automated,
+  title={Automated Proactive Logging Quality Improvement for Large-Scale Codebases},
+  author={Li, Yichen and Liu, Jinyang and Pu, Junsong and Jiang, Zhihan and Chen, Zhuangbin and He, Xiao and Zhang, Tieying and Chen, Jianjun and Li, Yi and Shi, Rui and others},
+  booktitle={2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE)},
+  pages={3426--3437},
+  year={2025},
+  organization={IEEE}
+}
