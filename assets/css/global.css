@@ -685,6 +685,8 @@ img.lazy {
 .badge-custom.badge-dsn  { background: linear-gradient(135deg, #475569, #64748b); }
 .badge-custom.badge-issre { background: linear-gradient(135deg, #be123c, #e11d48); }
 .badge-custom.badge-cloud { background: linear-gradient(135deg, #0369a1, #0ea5e9); }
+.badge-custom.badge-tosem { background: linear-gradient(135deg, #b45309, #f59e0b); }
+.badge-custom.badge-eurosys { background: linear-gradient(135deg, #a21caf, #d946ef); }
 
 .pub-award {
     font-size: 0.8rem;

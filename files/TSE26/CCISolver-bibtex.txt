@@ -1,0 +1,6 @@
+@article{zhong2025ccisolver,
+  title={Ccisolver: End-to-end detection and repair of method-level code-comment inconsistency},
+  author={Zhong, Renyi and Huo, Yintong and Gu, Wenwei and Kuang, Jinxi and Jiang, Zhihan and Yu, Guangba and Li, Yichen and Lo, David and Lyu, Michael R},
+  journal={arXiv preprint arXiv:2506.20558},
+  year={2025}
+}

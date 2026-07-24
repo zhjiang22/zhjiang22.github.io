@@ -1,0 +1,7 @@
+@inproceedings{liu2026proactive,
+  title={Proactive Change Risk Detection in Production Cloud Systems: ByteDance’s Experience},
+  author={Liu, Jinyang and Li, Yichen and Zhang, Tieying and Chen, Binbin and He, Xiao and Jiang, Zhihan and Zhang, Haipeng and Wu, Gang and Li, Yi},
+  booktitle={Proceedings of the 21st European Conference on Computer Systems},
+  pages={1565--1580},
+  year={2026}
+}

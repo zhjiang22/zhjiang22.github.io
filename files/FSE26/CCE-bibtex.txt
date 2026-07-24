@@ -1,0 +1,10 @@
+@article{li2026one,
+  title={One Size Does Not Fit All: Revisiting Code Context Engineering for Repository-Level Code Generation},
+  author={Li, Yichen and Lin, Qiye and Peng, Yun and Jiang, Zhihan and Liu, Jinyang and Wang, Chaozheng and Huo, Yintong and Gao, Cuiyun},
+  journal={Proceedings of the ACM on Software Engineering},
+  volume={3},
+  number={FSE},
+  pages={2952--2975},
+  year={2026},
+  publisher={ACM New York, NY, USA}
+}

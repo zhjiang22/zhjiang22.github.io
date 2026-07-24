@@ -1,0 +1,6 @@
+@article{wu2025trace,
+  title={Trace sampling 2.0: code knowledge enhanced span-level sampling for distributed tracing},
+  author={Wu, Yulun and Yu, Guangba and Jiang, Zhihan and Li, Yichen and Lyu, Michael R},
+  journal={arXiv preprint arXiv:2509.13852},
+  year={2025}
+}
