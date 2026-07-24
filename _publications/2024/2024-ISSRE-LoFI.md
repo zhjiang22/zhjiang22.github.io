@@ -12,7 +12,7 @@ pub_venue: "Tsukuba, Japan"
 abstract: >-
     Logs are crucial for maintaining online service systems, but manual investigation of logs by engineers is labor-intensive and prone to errors.
     We find that engineers typically prioritize two categories of log information for diagnosis: <i>fault-indicating descriptions</i> (FID) that highlight abnormal events, and <i> fault-indicating parameters </i> (FIP) that identify associated entities.
-    Motivated by these findings, we propose Log4d, a two-stage approach with novel prompt-based tuning to automatically extract fault-indicating information from logs for fault diagnosis.
+    Motivated by these findings, we propose LoFI, a two-stage approach with novel prompt-based tuning to automatically extract fault-indicating information from logs for fault diagnosis.
 
 
 

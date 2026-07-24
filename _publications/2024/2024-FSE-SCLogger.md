@@ -22,6 +22,7 @@ authors:
     - Jinyang Liu
     - Junjie Huang
     - Jiazhen Gu
+    - Pinjia He
     - Michael R. Lyu
 links:
   Paper: https://www.zhihan-jiang.com/files/FSE24/SCLogger.pdf

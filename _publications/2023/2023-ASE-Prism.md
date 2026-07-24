@@ -1,5 +1,5 @@
 ---
-title:          "Prism: Revealing Hidden Functional Clusters of Massive Instances in Cloud Systems"
+title:          "Prism: Revealing Hidden Functional Clusters from Massive Instances in Cloud Systems"
 date:           2023-09-11 00:00:00 +0800
 selected:       true
 pub:            >-
@@ -10,7 +10,7 @@ pub_pre:        >-
 # pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-warning">Poster</span>'
 pub_venue: "Kirchberg, Luxembourg"
 abstract: >-
-  To improve observability of large-scale cloud systems, we propose to infer <i>functional clusters</i>, i.e., groups of instances having similar functionalities, to bridge the gap betwwen instance and service layer.
+  To improve observability of large-scale cloud systems, we propose to infer <i>functional clusters</i>, i.e., groups of instances having similar functionalities, to bridge the gap between instance and service layer.
   Our pilot study demonstrates that instances having similar functionalities share similar <i>communication</i> and <i>resource usage</i> patterns. 
   Motivated by these findings, we propose a non-intrusive solution, <em>Prism</em>, to reveal functional clusters in cloud systems based on communication traces and performance metrics.
 # cover:          assets/images/covers/Prism-cover.png

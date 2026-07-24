@@ -27,6 +27,6 @@ links:
   Paper: https://www.zhihan-jiang.com/files/DSN25/LLMPrism.pdf
   Arxiv: https://arxiv.org/abs/2505.00342
   Slides: https://www.zhihan-jiang.com/files/DSN25/LLMPrism-slides.pdf
-  DOI: 10.1109/DSN-S65789.2025.00034
+  DOI: https://doi.org/10.1109/DSN-S65789.2025.00034
   BibTex: https://www.zhihan-jiang.com/files/DSN25/LLMPrism-bibtex.txt
 ---
