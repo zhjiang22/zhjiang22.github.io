@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Zhihan's Home Page"
 
 positions:
-  - '<span class="no-break"><img src="assets/images/badges/CUHK.JPG" alt="The Chinese University of Hong Kong" class="inline-badge"/></span> Ph.D. Candidate, CUHK'
+  - '<span class="no-break"><img src="assets/images/badges/CUHK.JPG" alt="The Chinese University of Hong Kong" class="inline-badge"/></span> Ph.D. Graduate, CUHK'
 
 email: "zhjiang22@cse.cuhk.edu.hk"
 gscholar: 6F85yPcAAAAJ
@@ -16,10 +16,10 @@ linkedin: zhjiang22
 orcid: 0009-0003-1988-6219
 
 short_bio: >-
-  I am a final-year CSE Ph.D. candidate in <a href="http://ariselab.cse.cuhk.edu.hk/">ARISE Lab</a> at The Chinese University of Hong Kong, supervised by <a href="https://www.cse.cuhk.edu.hk/lyu/">Prof. Michael R. Lyu</a>.
+  I am a recent CSE Ph.D. graduate from <a href="http://ariselab.cse.cuhk.edu.hk/">ARISE Lab</a> at The Chinese University of Hong Kong, supervised by <a href="https://www.cse.cuhk.edu.hk/lyu/">Prof. Michael R. Lyu</a>.
   Previously, I obtained my Bachelor's degree from Sun Yat-sen University, in 2022.
   <br>
-  My research is dedicated to <b>enhancing the observability and reliability of large-scale cloud and LLM systems</b>, with a particular focus on AIOps for LLM systems (Ops4LLM) and LLM-enhanced AIOps (LLM4Ops).
+  My research is dedicated to <b>enhancing the observability and reliability of large-scale LLM and Cloud systems</b>, with a particular focus on AIOps for LLM systems (Ops4LLM) and LLM-enhanced AIOps (LLM4Ops).
   My recent work centers on developing <b>reliable agentic systems</b> and advancing <b>agent-driven DevOps</b>.
   <br>
   <em>I am always open to academic discussions and brainstorming. Feel free to drop me an email if you are interested to connect.</em>
@@ -32,7 +32,7 @@ education:
 - name: The Chinese University of Hong Kong
   logo: assets/images/badges/CUHK.JPG
   position: Ph.D. in Computer Science and Engineering
-  date: Aug. 2022 - present
+  date: Aug. 2022 - Jul. 2026
   ta:
     - "ENGG1110 Problem Solving By Programming (Spring & Fall, 2023)"
     - "CSCI3160 Design and Analysis of Algorithms (Fall, 2022)"
