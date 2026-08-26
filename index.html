@@ -29,12 +29,13 @@ navbar_name: Home
 </div>
 
 <div class="text-center my-4">
-    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=2563eb&w=300&t=tt&d=CxmY8pVmBouHBK8l4Gt_lgi4jw4FsPXZnin1tuBgL5c&co=f8fafc&ct=475569'></script>
+    <script defer type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=2563eb&w=300&t=tt&d=CxmY8pVmBouHBK8l4Gt_lgi4jw4FsPXZnin1tuBgL5c&co=f8fafc&ct=475569'></script>
 </div>
 
 <script>
     !
     function() {
+        if (window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
         function n(n, e, t) {
             return n.getAttribute(e) || t
         }
@@ -58,6 +59,7 @@ navbar_name: Home
             c = m.height = window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight
         }
         function i() {
+            if (!T.running) return;
             r.clearRect(0, 0, a, c);
             r.fillStyle = "rgba(" + d.c + ",0.4)";
             var n, e, t, o, m, l;
@@ -108,10 +110,12 @@ navbar_name: Home
                 max: 6e3
             })
         }
-        u = s.concat([y]),
-        setTimeout(function() {
-            i()
-        },
-        100)
+        u = s.concat([y]);
+        var T = { running: false };
+        function start() { if (!T.running) { T.running = true; i(); } }
+        document.addEventListener("visibilitychange", function() {
+            document.hidden ? T.running = false : start();
+        });
+        setTimeout(start, 100)
     } ();
 </script>

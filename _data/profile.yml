@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Zhihan's Home Page"
 
 positions:
-  - '<span class="no-break"><img src="assets/images/badges/bytedance.png" alt="ByteDance" class="inline-badge"/></span> Research Scientist, ByteBrain @ ByteDance'
+  - '<span class="no-break"><img src="assets/images/badges/bytedance.png" alt="ByteDance" class="inline-badge"/></span> Research Scientist, ByteBrain @ ByteDance US'
   - '<span class="no-break"><img src="assets/images/badges/CUHK.JPG" alt="The Chinese University of Hong Kong" class="inline-badge"/></span> Ph.D. in Computer Science and Engineering, CUHK'
 
 email: "zhjiang22@gmail.com"
