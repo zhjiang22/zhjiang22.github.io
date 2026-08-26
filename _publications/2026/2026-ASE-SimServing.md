@@ -16,7 +16,7 @@ authors:
 links:
   Paper:
   Arxiv:
-  Project:
+  Project: https://figshare.com/articles/dataset/Artifact_for_SimServing_Native-Execution_Simulation_for_Evolution-Resilient_LLM_Serving_Configuration_Tuning_/31899004
   Slides:
   DOI:
   BibTex:
