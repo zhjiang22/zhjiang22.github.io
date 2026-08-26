@@ -6,6 +6,12 @@ positions:
   - '<span class="no-break"><img src="assets/images/badges/bytedance.png" alt="ByteDance" class="inline-badge"/></span> Research Scientist, ByteBrain @ ByteDance US'
   - '<span class="no-break"><img src="assets/images/badges/CUHK.JPG" alt="The Chinese University of Hong Kong" class="inline-badge"/></span> Ph.D. in Computer Science and Engineering, CUHK'
 
+# Plain-text mirror of the current role, consumed by the schema.org JSON-LD in
+# _layouts/default.html (the `positions` entries above carry markup, so they
+# can't be reused there). Keep in sync when the role changes.
+job_title: "Research Scientist"
+employer: "ByteDance"
+
 email: "zhjiang22@gmail.com"
 gscholar: 6F85yPcAAAAJ
 github: zhjiang22
