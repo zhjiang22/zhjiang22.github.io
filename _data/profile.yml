@@ -3,9 +3,10 @@ secondary_name: ""
 navbar_name: "Zhihan's Home Page"
 
 positions:
-  - '<span class="no-break"><img src="assets/images/badges/CUHK.JPG" alt="The Chinese University of Hong Kong" class="inline-badge"/></span> Ph.D. Graduate, CUHK'
+  - '<span class="no-break"><img src="assets/images/badges/bytedance.png" alt="ByteDance" class="inline-badge"/></span> Research Scientist, ByteBrain @ ByteDance'
+  - '<span class="no-break"><img src="assets/images/badges/CUHK.JPG" alt="The Chinese University of Hong Kong" class="inline-badge"/></span> Ph.D. in Computer Science and Engineering, CUHK'
 
-email: "zhjiang22@cse.cuhk.edu.hk"
+email: "zhjiang22@gmail.com"
 gscholar: 6F85yPcAAAAJ
 github: zhjiang22
 # twitter: zhjiang22
@@ -16,13 +17,16 @@ linkedin: zhjiang22
 orcid: 0009-0003-1988-6219
 
 short_bio: >-
-  I am a recent CSE Ph.D. graduate from <a href="http://ariselab.cse.cuhk.edu.hk/">ARISE Lab</a> at The Chinese University of Hong Kong, supervised by <a href="https://www.cse.cuhk.edu.hk/lyu/">Prof. Michael R. Lyu</a>.
-  Previously, I obtained my Bachelor's degree from Sun Yat-sen University, in 2022.
+  I am a Research Scientist at <b>ByteBrain</b>, the AI for Infrastructure (AI4Infra) platform at <a href="https://www.bytedance.com/">ByteDance</a>, based in San Jose, CA.
   <br>
-  My research is dedicated to <b>enhancing the observability and reliability of large-scale LLM and Cloud systems</b>, with a particular focus on AIOps for LLM systems (Ops4LLM) and LLM-enhanced AIOps (LLM4Ops).
-  My recent work centers on developing <b>reliable agentic systems</b> and advancing <b>agent-driven DevOps</b>.
+  I received my Ph.D. degree in Computer Science and Engineering from <a href="http://ariselab.cse.cuhk.edu.hk/">ARISE Lab</a>, The Chinese University of Hong Kong,
+  under the supervision of <a href="https://www.cse.cuhk.edu.hk/lyu/">Prof. Michael R. Lyu</a>.
+  Before that, I obtained my Bachelor's degree from Sun Yat-sen University in 2022.
   <br>
-  <em>I am always open to academic discussions and brainstorming. Feel free to drop me an email if you are interested to connect.</em>
+  My research is dedicated to <b>enhancing the observability and reliability of large-scale LLM and Cloud systems</b>, spanning AIOps for LLM systems (Ops4LLM) and LLM-enhanced AIOps (LLM4Ops).
+  My recent work centers on building <b>reliable agentic systems</b> and advancing <b>agent-driven DevOps (AgentOps)</b> for infrastructure at scale.
+  <br>
+  <em>I am always open to academic discussions and collaborations. Feel free to drop me an email if you would like to connect.</em>
 
 show_portrait: true
 portrait_url: assets/images/photos/portrait.jpeg
@@ -57,7 +61,7 @@ awards:
   date: 2019 - 2021
 
 service:
-- name: "Program Committee : AIWare'26, FORGE'26, APSEC'25, MSR'25, ASE'24-industry"
+- name: "Program Committee: AIWare'26, FORGE'26, ISSRE'26-industry, APSEC'25, MSR'25, ASE'24-industry"
 - name: "Artifact Evaluation Committee: ICSE'26, OSDI'25, ATC'25, ICSE'25, OSDI'24, ATC'24, ISSTA'24"
 - name: "Journal Reviewer: TSE, TOSEM, CSUR, EEAI"
 - name: >-
