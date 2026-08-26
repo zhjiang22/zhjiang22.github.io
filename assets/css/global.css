@@ -655,15 +655,6 @@ blockquote::after {
     min-height: 100px;
 }
 
-/* Lazy loading */
-img.lazy {
-    background-image: url('images/loading.gif');
-    background-repeat: no-repeat;
-    background-position: 50% 50%;
-    background-size: 50px 50px;
-    min-height: 80px;
-}
-
 .badge-custom {
     font-size: 0.7rem;
     font-weight: 600;

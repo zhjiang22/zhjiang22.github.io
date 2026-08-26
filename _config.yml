@@ -13,13 +13,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+title: Zhihan Jiang
+description: >-
+  Zhihan Jiang is a Research Scientist at ByteBrain, ByteDance, and holds a Ph.D.
+  from The Chinese University of Hong Kong. His research focuses on the
+  observability and reliability of large-scale LLM and cloud systems (AIOps,
+  LLM4Ops, AgentOps).
+url: "https://zhihan-jiang.com" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+lang: en
 
 # Build settings
 markdown: kramdown
 plugins:
   - jekyll-email-protect
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

@@ -5,7 +5,7 @@
     <div class="d-flex">
         {%- if item.cover -%}
         <div class="p-2 d-none d-md-block" style="flex: 0 0 120px;">
-            <img data-src="{{ item.cover | relative_url }}" alt="{{ item.title }}" class="lazy w-100 rounded-sm" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+            <img src="{{ item.cover | relative_url }}" alt="{{ item.title }}" class="w-100 rounded-sm" loading="lazy" decoding="async">
         </div>
         {%- endif -%}
         <div class="flex-grow-1 py-2 {% if item.cover %}pl-md-1{% else %}pl-3{% endif %} pr-1">
