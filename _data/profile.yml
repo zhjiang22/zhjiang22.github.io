@@ -1,6 +1,6 @@
 primary_name: "Zhihan Jiang"
 secondary_name: ""
-navbar_name: "Zhihan's Home Page"
+navbar_name: "Zhihan Jiang"
 
 positions:
   - '<span class="no-break"><img src="assets/images/badges/bytedance.png" alt="ByteDance" class="inline-badge"/></span> Research Scientist, ByteBrain @ ByteDance US'
@@ -23,16 +23,16 @@ linkedin: zhjiang22
 orcid: 0009-0003-1988-6219
 
 short_bio: >-
-  I am a Research Scientist at <b>ByteBrain</b>, the AI for Infrastructure (AI4Infra) platform at <a href="https://www.bytedance.com/">ByteDance</a>, based in San Jose, CA.
+  <p>I am a Research Scientist at <b class="brand-bytebrain">ByteBrain</b>, the AI for Infrastructure (AI4Infra) platform at <a href="https://www.bytedance.com/">ByteDance</a>, based in San Jose, CA, USA.</p>
+  <p>My research focuses on <b class="kw-devops">AI for DevOps</b>: the half of software delivery that comes <strong class="kw-claim">after the code</strong>.
+  As coding agents accelerate development, the bottleneck moves to verification, deployment, and operations.
   <br>
-  I received my Ph.D. degree in Computer Science and Engineering from <a href="http://ariselab.cse.cuhk.edu.hk/">ARISE Lab</a>, The Chinese University of Hong Kong,
-  under the supervision of <a href="https://www.cse.cuhk.edu.hk/lyu/">Prof. Michael R. Lyu</a>.
-  Before that, I obtained my Bachelor's degree from Sun Yat-sen University in 2022.
+  I envision a <strong class="kw-claim">self-evolving</strong> software system where <strong class="kw-thesis">trust comes from the delivery loop, not human review</strong>: every change is verified before it ships, deployment is gated by its <span class="kw-line kw-line--risk">risk</span>, and production returns <span class="kw-line kw-line--feedback">feedback</span> and <span class="kw-line kw-line--knowledge">knowledge</span> for the next change.
+  The open questions are <strong class="kw-claim">how far this loop can run</strong> before humans get involved, and what an <strong class="kw-claim">agent-native environment</strong>, built for agents, not developers, must provide to run&nbsp;it.</p>
+  <p>I received my Ph.D. in Computer Science and Engineering from The Chinese University of Hong Kong, advised by <a href="https://www.cse.cuhk.edu.hk/lyu/">Prof. Michael R. Lyu</a> in the <a href="http://ariselab.cse.cuhk.edu.hk/">ARISE Lab</a>.
   <br>
-  My research is dedicated to <b>enhancing the observability and reliability of large-scale LLM and Cloud systems</b>, spanning AIOps for LLM systems (Ops4LLM) and LLM-enhanced AIOps (LLM4Ops).
-  My recent work centers on building <b>reliable agentic systems</b> and advancing <b>agent-driven DevOps (AgentOps)</b> for infrastructure at scale.
-  <br>
-  <em>I am always open to academic discussions and collaborations. Feel free to drop me an email if you would like to connect.</em>
+  My doctoral research established a <strong class="kw-claim">mutually reinforcing cycle</strong> between LLMs and operations: using LLMs to automate large-scale cloud operations (<b class="kw-llm4ops">LLM4Ops</b>) and making LLM systems themselves observable and reliable (<b class="kw-ops4llm">Ops4LLM</b>).</p>
+  <p class="hero-bio__invite">I am always open to discussions and collaborations. Feel free to drop me an email if you would like to connect.</p>
 
 show_portrait: true
 portrait_url: assets/images/photos/portrait.jpeg
@@ -67,9 +67,9 @@ awards:
   date: 2019 - 2021
 
 service:
-- name: "Program Committee: AIWare'26, FORGE'26, ISSRE'26-industry, APSEC'25, MSR'25, ASE'24-industry"
+- name: "Program Committee: FORGE'27, AIWare'26, FORGE'26, ISSRE'26-industry, APSEC'25, MSR'25, ASE'24-industry"
 - name: "Artifact Evaluation Committee: ICSE'26, OSDI'25, ATC'25, ICSE'25, OSDI'24, ATC'24, ISSTA'24"
-- name: "Journal Reviewer: TSE, TOSEM, CSUR, EEAI"
+- name: "Journal Reviewer: TSE, TOSEM, CSUR, EEAI, ToN"
 - name: >-
         Conference (sub-)Reviewer:
           FSE'26, ICDE'26-industry,

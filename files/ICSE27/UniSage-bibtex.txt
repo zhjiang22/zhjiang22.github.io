@@ -1,0 +1,7 @@
+@inproceedings{zhu2027unisage,
+  title     = {UniSage: A Unified and Diagnosis-Driven Sampling Framework for Microservice Systems},
+  author    = {Zhu, Zhouruixing and Jiang, Zhihan and Yang, Tianyi and He, Pinjia},
+  booktitle = {Proceedings of the 49th IEEE/ACM International Conference on Software Engineering (ICSE)},
+  year      = {2027},
+  publisher = {IEEE/ACM}
+}

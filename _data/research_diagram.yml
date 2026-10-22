@@ -1,0 +1,18 @@
+# Both responsive layouts describe the same research framework.
+labels:
+  intent: Intent
+  coding: Coding
+  verification: Verification
+  deployment: Deployment
+  operations: Operations
+  agent_loop: Agent loop
+  delivery_loop: Delivery loop
+  risk: Risk
+  feedback: Feedback
+  knowledge: Knowledge
+  environment: Agent-native environment
+description: >-
+  Intent enters Coding and its local Agent loop. The Delivery loop moves changes
+  through Verification, Deployment, and Operations, with Risk informing deployment. Feedback from
+  Operations informs the next change in Coding; Knowledge from Operations informs
+  Verification. Both loops run on an Agent-native environment.

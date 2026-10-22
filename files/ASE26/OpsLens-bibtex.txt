@@ -1,0 +1,7 @@
+@inproceedings{huang2026opslens,
+  title={OpsLens: Runbook-Free Root Cause Analysis via Multi-agent Collaboration and Tool Management},
+  author={Huang, Haiyu and Lyu, Jiewei and Tan, Gou and Chen, Pengfei and Jiang, Zhihan and Yu, Guangba and Mi, Penghui and Wang, Fuqiang and Han, Jian and Tan, Chongkang and Lyu, Michael R},
+  booktitle={Proceedings of the 41st IEEE/ACM International Conference on Automated Software Engineering},
+  pages={4116--4127},
+  year={2026}
+}

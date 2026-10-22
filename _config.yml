@@ -16,9 +16,9 @@
 title: Zhihan Jiang
 description: >-
   Zhihan Jiang is a Research Scientist at ByteBrain, ByteDance, and holds a Ph.D.
-  from The Chinese University of Hong Kong. His research focuses on the
-  observability and reliability of large-scale LLM and cloud systems (AIOps,
-  LLM4Ops, AgentOps).
+  from The Chinese University of Hong Kong. His research focuses on AI for
+  DevOps: making software delivery faster and more reliable in the era of
+  coding agents.
 url: "https://zhihan-jiang.com" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog
 lang: en

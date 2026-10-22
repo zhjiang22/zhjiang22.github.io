@@ -1,0 +1,7 @@
+@article{liu2026scalable,
+  title={Scalable and Adaptive Log-based Anomaly Detection: A Synergistic Approach},
+  author={Liu, Jinyang and Huang, Junjie and Jiang, Zhihan and Huo, Yintong and Chen, Zhuangbin and Gu, Jiazhen and Feng, Cong and Yan, Minzhi and Lyu, Michael R},
+  journal={ACM Transactions on Software Engineering and Methodology},
+  year={2026},
+  publisher={ACM New York, NY, USA}
+}

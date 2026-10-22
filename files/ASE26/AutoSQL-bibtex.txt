@@ -1,0 +1,7 @@
+@inproceedings{pu2026autosql,
+  title={AutoSQL: Extracting SQL Templates from Imperative ORM Code in Large-Scale Repositories},
+  author={Pu, Junsong and Li, Yichen and Chen, Zhuangbin and Jiang, Zhihan and Zheng, Zibin},
+  booktitle={Proceedings of the 41st IEEE/ACM International Conference on Automated Software Engineering},
+  pages={1560--1572},
+  year={2026}
+}
