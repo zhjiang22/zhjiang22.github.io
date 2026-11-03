@@ -129,7 +129,102 @@ def parse_stats(html):
     )
 
 
-def fetch_stats():
+def as_int(value):
+    if isinstance(value, bool):
+        return None
+    if isinstance(value, int):
+        return value
+    if isinstance(value, str):
+        digits = value.replace(",", "").strip()
+        if digits.isdigit():
+            return int(digits)
+    return None
+
+
+def serpapi_key():
+    for name in ("SERPAPI_KEY", "SERPAPI_API_KEY"):
+        value = os.environ.get(name, "").strip()
+        if value:
+            return value
+    return ""
+
+
+def parse_serpapi_author(payload):
+    if not isinstance(payload, dict):
+        raise ValueError("SerpAPI returned a non-object response")
+    if payload.get("error"):
+        raise ValueError(str(payload["error"]))
+
+    status = (payload.get("search_metadata") or {}).get("status")
+    if status and status != "Success":
+        raise ValueError(f"SerpAPI search status is {status}")
+
+    found = {}
+    for row in (payload.get("cited_by") or {}).get("table") or []:
+        if not isinstance(row, dict):
+            continue
+        for name, values in row.items():
+            if isinstance(values, dict):
+                found[name] = values
+
+    def pair(name):
+        values = found.get(name) or {}
+        total = as_int(values.get("all"))
+        recent = None
+        for key, value in values.items():
+            if str(key).startswith("since_"):
+                recent = as_int(value)
+                break
+        if total is None or recent is None:
+            raise ValueError(f"SerpAPI cited_by table is missing {name}")
+        return total, recent
+
+    citations_all, citations_5y = pair("citations")
+    h_index_all, h_index_5y = pair("h_index")
+    i10_index_all, i10_index_5y = pair("i10_index")
+    return {
+        "citations_all": citations_all,
+        "citations_5y": citations_5y,
+        "h_index_all": h_index_all,
+        "h_index_5y": h_index_5y,
+        "i10_index_all": i10_index_all,
+        "i10_index_5y": i10_index_5y,
+    }
+
+
+def fetch_serpapi():
+    # Keep the key out of exception text. requests would otherwise include it in the URL.
+    try:
+        response = requests.get(
+            "https://serpapi.com/search.json",
+            params={
+                "engine": "google_scholar_author",
+                "author_id": SCHOLAR_ID,
+                "hl": "en",
+                "api_key": serpapi_key(),
+            },
+            timeout=TIMEOUT_SECONDS,
+        )
+    except requests.RequestException as exc:
+        raise RuntimeError(
+            f"SerpAPI request failed ({type(exc).__name__})"
+        ) from None
+
+    try:
+        payload = response.json()
+    except ValueError as exc:
+        raise RuntimeError(
+            f"SerpAPI returned non-JSON (HTTP {response.status_code})"
+        ) from exc
+
+    if response.status_code >= 400:
+        message = payload.get("error") if isinstance(payload, dict) else ""
+        detail = f": {message}" if message else ""
+        raise RuntimeError(f"SerpAPI HTTP {response.status_code}{detail}")
+    return parse_serpapi_author(payload)
+
+
+def fetch_direct():
     url = f"https://scholar.google.com/citations?user={SCHOLAR_ID}&hl=en"
     last_error = None
 
@@ -152,12 +247,40 @@ def fetch_stats():
                 f"Google Scholar stats: {exc}",
                 file=sys.stderr,
             )
+            # 403/429 from this IP will not clear within one job.
+            if any(code in str(exc) for code in ("403", "429")):
+                break
             if attempt < MAX_ATTEMPTS:
                 time.sleep(RETRY_DELAY_SECONDS * attempt)
 
-    raise RuntimeError(
-        f"Failed to fetch Google Scholar stats after {MAX_ATTEMPTS} attempts"
-    ) from last_error
+    raise RuntimeError("Direct Google Scholar fetch failed") from last_error
+
+
+def fetch_stats():
+    errors = []
+    if serpapi_key():
+        try:
+            print("Fetching Google Scholar stats via SerpAPI.")
+            return fetch_serpapi()
+        except (RuntimeError, ValueError) as exc:
+            errors.append(str(exc))
+            print(f"SerpAPI fetch failed: {exc}", file=sys.stderr)
+
+    try:
+        print("Fetching Google Scholar stats directly.")
+        return fetch_direct()
+    except RuntimeError as exc:
+        errors.append(str(exc))
+
+    message = "Failed to fetch Google Scholar stats. " + " | ".join(errors)
+    if not serpapi_key():
+        message += (
+            " GitHub-hosted runners are blocked by Google Scholar. "
+            "Create a free key at https://serpapi.com/users/sign_up "
+            "(250 searches/month), save it as the SERPAPI_KEY Actions secret, "
+            "and re-run Update Google Scholar Stats."
+        )
+    raise RuntimeError(message)
 
 
 def write_yaml(stats):

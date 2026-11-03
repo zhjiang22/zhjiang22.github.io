@@ -26,9 +26,12 @@ jobs:
       - name: Fetch Google Scholar stats
         env:
           SCHOLAR_ID: "6F85yPcAAAAJ"
-          ALLOW_STALE_ON_FAILURE: "1"
-          SCHOLAR_FETCH_ATTEMPTS: "5"
-          SCHOLAR_FETCH_RETRY_DELAY: "8"
+          # Scholar returns 403/429 to GitHub-hosted runners. SerpAPI is the
+          # path that still works from Actions. Direct fetch remains the
+          # fallback for machines Google does not block.
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+          SCHOLAR_FETCH_ATTEMPTS: "2"
+          SCHOLAR_FETCH_RETRY_DELAY: "5"
         run: python scripts/fetch_scholar.py
 
       - name: Commit and push if changed
